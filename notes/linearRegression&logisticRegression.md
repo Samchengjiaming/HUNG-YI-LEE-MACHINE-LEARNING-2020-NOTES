@@ -1,0 +1,1 @@
+# introduction## classification of ML- Regression- Binary Classification- Multi-class Classification- Generation- supervised learning- unsupervised learning- meta learning- reinforcement learning- life-long learning# Linear Regression *linear model*    y=b+
